@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Go Rpc Todo</string>
+    <string name="sync_work_notification_title">Go Rpc Todo</string>
+    <string name="sync_work_notification_channel_name">Sync</string>
+    <string name="sync_work_notification_channel_description">Background tasks for Go Rpc Todo</string>
+
+</resources>
